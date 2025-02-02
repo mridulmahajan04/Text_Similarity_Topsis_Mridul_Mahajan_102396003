@@ -78,6 +78,6 @@ A bar plot is generated to visualize the model rankings.
 ## 📊 Visualization
 Below is the bar plot generated to visualize the model rankings:
 
-![Model Rankings Visualization](topsis_visualization.png)
+![Model Rankings Visualization](plot.png)
 
 
