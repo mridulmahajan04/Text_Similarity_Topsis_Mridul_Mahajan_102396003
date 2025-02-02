@@ -76,16 +76,4 @@ After applying TOPSIS, the models are ranked based on their similarity scores. B
 ## 📊 Visualization
 A bar plot is generated to visualize the model rankings.
 
-## 📚 Detailed Explanation
-- **Why TOPSIS?**
-  TOPSIS is a powerful decision-making method for ranking alternatives when multiple criteria are involved. It helps balance different evaluation metrics for a comprehensive comparison.
-
-- **Handling Multiple Metrics:**
-  Instead of relying on a single similarity metric, TOPSIS considers all metrics simultaneously, providing a more reliable ranking.
-
-## 🧑‍💻 Contributions
-Feel free to open issues or submit pull requests if you have suggestions or improvements.
-
-## 📝 License
-This project is licensed under the MIT License.
 
