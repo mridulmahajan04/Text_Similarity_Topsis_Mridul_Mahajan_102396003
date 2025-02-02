@@ -55,10 +55,10 @@ pip install numpy pandas matplotlib sentence-transformers datasets scikit-learn
 ```
 
 ### Running the Project
-Copy the project script to `text_similarity_topsis.py` and execute it as follows:
+Copy the project script to `102396003_TopsisOnPreTrainedModel.py` and execute it as follows:
 
 ```bash
-python text_similarity_topsis.py
+python 102396003_TopsisOnPreTrainedModel.py
 ```
 
 ## 📈 Results
