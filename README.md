@@ -75,5 +75,9 @@ After applying TOPSIS, the models are ranked based on their similarity scores. B
 
 ## 📊 Visualization
 A bar plot is generated to visualize the model rankings.
+## 📊 Visualization
+Below is the bar plot generated to visualize the model rankings:
+
+![Model Rankings Visualization](topsis_visualization.png)
 
 
